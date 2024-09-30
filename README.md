@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovaldonado&show_icons=true&theme=dark)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovaldonado)](https://github.com/thiagovaldonado/github-readme-stats)
+
 ## Um pouco sobre mim!
 
 Carreira desenvolvida na área de Tecnologia da Informação, experiência com gerenciamento de projetos de implantação de hardware e software, definição e acompanhamento de estatísticas de atendimento e elaboração de reports gerenciais utilizando business intelligence (BI), criando métricas e indicadores que venham apoiar na tomada de decisão da empresa, assim melhorando processos que tragam agilidade ao negócio.
