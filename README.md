@@ -1,6 +1,6 @@
-## Hi there 👋
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/thiagovaldonado)
+## Olá eu sou o Thiago👋 Seja bem-vindo ao meu GitHub
 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/thiagovaldonado)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/thiaagocaastro)
 
