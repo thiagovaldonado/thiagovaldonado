@@ -6,9 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovaldonado&show_icons=true&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagovaldonado)](https://github.com/thiagovaldonado/github-readme-stats)
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={thiagovaldonado}&theme=blue-green
 
 ## Um pouco sobre mim!
 
